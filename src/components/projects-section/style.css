@@ -1,0 +1,19 @@
+.projects {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 30px;
+}
+
+.projects:nth-last-child(1) {
+    padding-bottom: 80px;
+}
+
+/* Media Queries */
+
+@media (max-width: 601px) {
+    .projects:nth-last-child(1) {
+        padding-bottom: 75px;
+    }
+}

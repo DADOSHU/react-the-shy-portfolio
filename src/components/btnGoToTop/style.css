@@ -1,0 +1,25 @@
+.btn-top {
+    display: none;
+	position: fixed;
+    bottom: 0;
+    right: 5px;
+    padding: 15px;
+    z-index: 9;
+
+	border: none;
+	outline: none;
+	cursor: pointer;
+	border-radius: 100%;
+}
+
+.btn-top__icon {
+    width: 70px;
+}
+
+/* Media Queries */
+
+@media (max-width: 601px) {
+    .btn-top__icon {
+        width: 40px;
+    }
+}
