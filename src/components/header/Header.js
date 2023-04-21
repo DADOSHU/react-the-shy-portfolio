@@ -1,4 +1,4 @@
-import resume from "./../../img/cv/resume.png"
+import resume from "./../../img/cv/resume.jpg"
 import "./style.css"
 
 const Header = () => {
@@ -10,7 +10,7 @@ const Header = () => {
                     a frontend developer
                 </h1>
                 <div className="header__text">
-                    <p>passion for learning and creating.</p>
+                    <p>who strive for more!</p>
                 </div>
                 <a href={resume} download="" className="btn">Download CV</a>
             </div>

@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="container">
                 <div className="footer__wrapper">
                     <ul className="social">
-                        <li className="social__item"><a href="https://github.com/dadoshu" target="_blank" rel="noreferrer noopener"><img src={github} alt="github" /></a></li>
+                        <li className="social__item"><a href="https://github.com/daviddovzhanskiy/" target="_blank" rel="noreferrer noopener"><img src={github} alt="github" /></a></li>
                         <li className="social__item"><a href="https://www.linkedin.com/in/daviddovzhanskiy/" target="_blank" rel="noreferrer noopener"><img src={linkedin} alt="linkedin" /></a></li>
                         <li className="social__item"><a href="https://www.instagram.com/daviddovzhanskiy/" target="_blank" rel="noreferrer noopener"><img src={instagram} alt="instagram" /></a></li>
                     </ul>
