@@ -2,8 +2,8 @@
 Данный проект представляет из себя сайт-портфолио предоставляющий основную информацию о человеке, которому он посвящен, а также о проектах, которые он создал. Сайт включает в себя разделы с готовыми проектами, информацией о навыках специалиста, его контактные данные и отдельные расширенные страницы для каждого проекта.
 
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/daviddovzhanskiy/react-the-shy-portfolio/master/srс/img/preview/preview.png">
-</div>
+  <img  src="https://raw.githubusercontent.com/daviddovzhanskiy/react-the-shy-portfolio/master/src/img/preview/preview.png">
+</div> 
 
 ---
 
